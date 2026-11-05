@@ -66,3 +66,4 @@ gardener.add_equipment(gl)
 gardener.remove_equipment(gl)
 gardener.view_garden()
 # Day7
+# Day7
